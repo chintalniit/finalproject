@@ -1,6 +1,6 @@
 Collaboration Platform:
 
-Project Title: ChatNow
+Project Title:Hangouts
 Technologies Used
 •	Front End: - Angularjs, Bootstrap, HTML5, CSS3.
 •	Back End: - H2, Hibernate, ApacheTomcat.
